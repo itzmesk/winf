@@ -1,5 +1,5 @@
 {
-    "name": "Auto Filter Bot",
+    "name": "Movies Master Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
     "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://telegram.dog/MoviesMasterOfficial",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
+    "repository": "https://github.com/itzmesk/winf",
     "success_url": "https://telegram.dog/MoviesMasterOfficial",
     "env": {
         "TG_BOT_TOKEN": {
